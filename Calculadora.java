@@ -22,7 +22,7 @@ public class Calculadora {
 		System.out.println("soma " + soma);
 		System.out.println("sub " + subtracao);
 		System.out.println("mult " + multiplicacao);
-		System.out.println("div " + divisao);
+		System.out.println("div " + divisao); 
 	}
 	
 	public static int soma(int a, int b) {
